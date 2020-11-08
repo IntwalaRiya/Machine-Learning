@@ -20,12 +20,12 @@ If there are more than one explanatory variables, then it is called Multiple Lin
     ->	In Multiple Linear Regression, we try to find the relationship between 2 or more independent variables (inputs) and the corresponding dependent variable (output). 
 
 ## Cost Function:
-		![alt text](https://media.geeksforgeeks.org/wp-content/uploads/LR-cost-function-2.jpg) 
+		[Cost Function](https://media.geeksforgeeks.org/wp-content/uploads/LR-cost-function-2.jpg) 
 Cost function(J) of Linear Regression is the Root Mean Squared Error (RMSE) between predicted Y value (PRED) and true Y value (Y).
 
 ## Gradient Descent
 ### Gradient Descent: 
-		![alt text](https://media.geeksforgeeks.org/wp-content/uploads/LR-cost-function-1.jpg)
+		[Gradient Descent](https://media.geeksforgeeks.org/wp-content/uploads/LR-cost-function-1.jpg)
     It is used to update coefficient of X in such a way that it reduces cost function. It will start with random values of coefficient of X, and then iteratively update it till it reaches the minimum Cost.
  
 
@@ -43,7 +43,7 @@ Cost function(J) of Linear Regression is the Root Mean Squared Error (RMSE) betw
         ->	Three or more categories with ordering. Example: Movie rating from 1 to 5
 
 ## Cost Function:
-		![alt text](https://i.stack.imgur.com/XbU4S.png) 	
+		[Cost Function](https://i.stack.imgur.com/XbU4S.png) 	
 		
 ## Linear Regression Vs Logistic Regression:
   	->	Linear regression is used for predicting the continuous dependent variable using a given set of independent features, whereas Logistic Regression is used to predict the categorical. 
