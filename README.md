@@ -13,10 +13,10 @@ If there are more than one explanatory variables, then it is called Multiple Lin
 
 ## Types of Linear Regression:
 
-   ### 1.	Simple Linear Regression: 
+   ### 1. Simple Linear Regression: 
     -> In Simple Linear Regression, we try to find the relationship between a single independent variable (input) and a corresponding dependent variable (output).
 
-   ### 2.	Multiple Linear Regression:
+   ### 2. Multiple Linear Regression:
     ->	In Multiple Linear Regression, we try to find the relationship between 2 or more independent variables (inputs) and the corresponding dependent variable (output). 
 
 ## Gradient Descent
@@ -30,13 +30,13 @@ If there are more than one explanatory variables, then it is called Multiple Lin
 
 ## Types of Logistic Regression
 
-   ### 1.	Binary Logistic Regression: 
-        ->	The categorical response has only two 2 possible outcomes. Example: Spam or Not
-   ### 2.	Multinomial Logistic Regression:
+   ### 1. Binary Logistic Regression: 
+        -> The categorical response has only two 2 possible outcomes. Example: Spam or Not
+   ### 2. Multinomial Logistic Regression:
         -> Three or more categories without ordering. Example: Predicting which food is preferred more (Veg, Non-Veg, Vegan)
-   ### 3.	Ordinal Logistic Regression:
-        ->	Three or more categories with ordering. Example: Movie rating from 1 to 5	
+   ### 3. Ordinal Logistic Regression:
+        -> Three or more categories with ordering. Example: Movie rating from 1 to 5	
 		
 ## Linear Regression Vs Logistic Regression:
-  	->	Linear regression is used for predicting the continuous dependent variable using a given set of independent features, whereas Logistic Regression is used to predict the categorical. 
-  	->	Linear regression is used to solve regression problems, whereas logistic regression is used to solve classification problems.
+  	-> Linear regression is used for predicting the continuous dependent variable using a given set of independent features, whereas Logistic Regression is used to predict the categorical. 
+  	-> Linear regression is used to solve regression problems, whereas logistic regression is used to solve classification problems.
